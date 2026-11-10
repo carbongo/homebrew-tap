@@ -1,8 +1,8 @@
 class Syncto < Formula
   desc "Keep git repos in sync by themselves: commit, pull and push"
   homepage "https://github.com/carbongo/syncto"
-  url "https://github.com/carbongo/syncto/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "5754b3a0219b15d98df5e07e92e5e56c89435c0ac078b5b22c07c044119a4122"
+  url "https://github.com/carbongo/syncto/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "cc52f80d99503a5cf1912ec09c2fe656cffc606b5ca4c59daa978caeebc47906"
   license "MIT"
 
   def install
