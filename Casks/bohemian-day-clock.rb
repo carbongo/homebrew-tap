@@ -1,6 +1,6 @@
 cask "bohemian-day-clock" do
-  version "2.1.0"
-  sha256 "cf5954f77892129abe36f3d559f00aa8ebbcc34e0caef03f9ef78b85f7150996"
+  version "2.2.0"
+  sha256 "55a0de809649c8bfcb115254f30a276a69a99bbf4afcda9947f9008c4d576850"
 
   url "https://github.com/carbongo/bohemian-day-clock/releases/download/v#{version}/Bohemian-Day-Clock_#{version}_macos-universal.dmg"
   name "Bohemian Day Clock"
